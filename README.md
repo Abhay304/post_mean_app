@@ -1,5 +1,11 @@
 # PostApp
 
+## Funcationality 
+
+This application enables to store your information safely when you upload photos or add contents to it. It is also accessible from anyplace.
+
+Your Password is encypted and Safe.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
